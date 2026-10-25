@@ -32,7 +32,9 @@ Deep Learning (IF25-40401) · Teknik Informatika ITERA · Semester Ganjil 2026/2
 
 | **Putaran** | **Macro-F1 (split validasi lokal)** | **Macro-F1 (diumumkan asisten)** |
 | ----------- | ----------------------------------- | -------------------------------- |
-| Preview 1 (14 Okt) | 0,9428* | |
+| Preview 1 (14 Okt) | 0,8641* |0,8641 |
+| Preview 2 (21 Okt) | 0,8641* |0,8641 |
+| Preview 3 (25 Okt) | 0,9428* |On Going |
 
 \* Nilai 0,9428 merupakan hasil evaluasi lokal ResNet-34, bukan nilai resmi yang diumumkan asisten. Nilai resmi belum dicantumkan karena belum tersedia dalam informasi eksperimen ini.
 
